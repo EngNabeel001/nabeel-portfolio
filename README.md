@@ -1,4 +1,4 @@
-# Hi, I'm Nabeel Bany Yaseen 👋
+# Hi, I'm Nabeel Bany Yaseen
 
 ## Business Intelligence Analyst | Power BI Developer | SQL Developer
 
